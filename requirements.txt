@@ -1,0 +1,7 @@
+et-xmlfile==1.0.1
+jdcal==1.4
+nltk==3.4
+numpy==1.16.1
+openpyxl==2.5.14
+singledispatch==3.4.0.3
+six==1.12.0
